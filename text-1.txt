@@ -1,1 +1,2 @@
 hello cr7 1988
+nuxt developer
