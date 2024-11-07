@@ -1,2 +1,8 @@
 hello sajjad
+<<<<<<< Updated upstream
 change master2
+=======
+change master2
+red
+one
+>>>>>>> Stashed changes
